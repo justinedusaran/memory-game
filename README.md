@@ -19,5 +19,4 @@ A classic memory card matching game built using **HTML, CSS, and JavaScript**. F
 1. Open the game in your browser.  
 2. Choose number of cards (even number, maximum 16).  
 3. Click on a card to flip it.  
-4. Match pairs of cards to remove them from the board.  
-5. Try to match all pairs with as few moves as possible!
+4. Try to match all pairs with as few moves as possible!
